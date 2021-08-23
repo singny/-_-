@@ -37,6 +37,7 @@
     <li>항목1</li>
     <li>항목2</li>
 </ol>
+
 #### - ul and li : 순서 없는 목록 
 ```
 <ul>
@@ -49,8 +50,10 @@
     <li>항목1</li>
     <li>항목2</li>
 </ul>
+
 # 4-3 표 만들기
 #### - table, caption
+
 ```
 <table>~</table> : 표
 <caption>~</caption> : 표 제목
