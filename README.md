@@ -32,6 +32,7 @@
     <li>항목2</li>
 </ol>
 ```
+
 <ol>
     <li>항목1</li>
     <li>항목2</li>
@@ -43,6 +44,7 @@
     <li>항목2</li>
 </ul>
 ```
+
 <ul>
     <li>항목1</li>
     <li>항목2</li>
@@ -53,6 +55,7 @@
 <table>~</table> : 표
 <caption>~</caption> : 표 제목
 ```
+
 #### - tr, td, th
 <table>
     <tr>
@@ -63,7 +66,7 @@
       <td>2행 1열</td>
       <td>2행 2열</td>
     </tr>
-  </table>
+</table>
   
 ```
 <tr> : 행
