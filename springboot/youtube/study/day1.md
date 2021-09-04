@@ -3,7 +3,7 @@
 ### - 자바프로그램을 보다 쉽고 빠르게 만들게 하는 도구
 ### - 프로그램을 만들기 위한 레시피들이 존재하는데 원하는 레시피만 찾아서 사용한다.
 ## * 목표
-### - spring boot를 위한 개발 환경 만들고 "헬로 월드" 출력하기
+### - spring boot를 위한 개발 환경 만들고 "hello world" 출력하기
 ### 1. JDK(8버전) ItelliJ IDEA 설치하기
 ### 2. spring initializr페이지를 열어서 프로젝트 생성하기
 ### 3. Project : Gradle Project, Language : Java, Artifact : firstproject1, Pakaging : Jar
