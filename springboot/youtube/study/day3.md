@@ -61,6 +61,6 @@
 {{>layouts/header}}
 {{>layouts/footer}}
 ```
-## * 
+## * 결과페이지
 ![image](https://user-images.githubusercontent.com/89372116/132950260-cf26bf81-bae6-476a-869b-92c6f850ef0f.png)
 ![image](https://user-images.githubusercontent.com/89372116/132950273-2e051480-7b30-4fdf-ad52-e3d251e3600c.png)
