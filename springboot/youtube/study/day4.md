@@ -58,3 +58,6 @@ public class ArticleForm {
 }
 ```
 ## * 결과값
+
+![image](https://user-images.githubusercontent.com/89372116/132954662-4604526d-1164-4a60-9a98-f3df735dc87a.png)
+![image](https://user-images.githubusercontent.com/89372116/132954690-a400f738-8ab5-4ece-ba9f-9dbdfa904bd2.png)
