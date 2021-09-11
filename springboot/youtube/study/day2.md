@@ -10,6 +10,9 @@
 #### -> Controller : 처리과정 담당
 #### -> Model : 데이터를 관리
 ### - MVC패턴 : 분야별 담당자를 나눈다. 화면,처리,데이터 분야를 각 담당자 별로 나누는 기법.
+#### -> Controller : 클라이언트로 요청을 받음
+#### -> View : 최종페이지를 만듬
+#### -> Model : 최종페이지에 쓰일 데이터들을 View에 전달
 ### - Mustache : 뷰템블릿을 만드는 도구
 ### 1. 뷰 템블릿의 위치 : 파일명/gradle/src/main/resources/templates
 ### 2. 플러그인 설치 : Handlebars/Mustache 설치
